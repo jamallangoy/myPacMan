@@ -1,5 +1,7 @@
 # My PacMan
 
+<img src="https://github.com/jamallangoy/myPacMan/blob/main/pacmanLogo.png" width="300px"/>
+
 ## Version 1 - Week 4: Introduction To Javascript (MIT XPro, June 2021)
 
 # Description
